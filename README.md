@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # WiFi Signali Analizer
 
 Коротко
@@ -42,3 +43,7 @@ python WiFi_signal_analisator.py --interface <interface> --duration 60 --output 
 
 Контакти
 - Автор: (додайте ім'я або email)
+=======
+# WiFi-Signali-Analizer
+<img width="1347" height="812" alt="Screenshot 2026-09-12 234538" src="https://github.com/user-attachments/assets/3a73d673-b7e7-434d-9fdf-c6f1a729f80c" />
+>>>>>>> e7bd33016270c9a25bdf4b7a8ac9c9ed5ccd1089
